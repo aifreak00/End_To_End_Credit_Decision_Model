@@ -326,5 +326,4 @@ http://<public-ipv4-address>:8080/github-webhook/
 Now, Jenkins will receive a notification from GitHub and start a build whenever the specified events occur in your repository.
 
 
-
-
+# waiting for specific events to occur
